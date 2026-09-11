@@ -1,0 +1,11 @@
+{
+  "name": "@serai/core",
+  "version": "1.0.0",
+  "description": "Somnia Event-Driven Reactive Agent Infrastructure for dreamDEX Event Contracts",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "license": "MIT"
+}
